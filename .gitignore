@@ -1,0 +1,11 @@
+node_modules/
+dist/
+out/
+.remotion/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+public/media/*
+!public/media/.gitkeep
